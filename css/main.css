@@ -1,0 +1,23 @@
+body {
+    background-color: #1c1c1c;
+    overflow: hidden;
+    text-align:center;
+     display: flex;
+     align-items: center;
+     justify-content: center; 
+   }
+   
+   body,
+   html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+   }
+   
+   svg {
+    width: 60%;
+    height: 60%;
+    visibility: hidden;
+    
+   }
